@@ -1,0 +1,1018 @@
+[
+  {
+    "NationID": 106,
+    "NationName": "afghanistan"
+  },
+  {
+    "NationID": 752,
+    "NationName": "albania"
+  },
+  {
+    "NationID": 5,
+    "NationName": "algeria"
+  },
+  {
+    "NationID": 129504,
+    "NationName": "american-samoa"
+  },
+  {
+    "NationID": 753,
+    "NationName": "andorra"
+  },
+  {
+    "NationID": 6,
+    "NationName": "angola"
+  },
+  {
+    "NationID": 129514,
+    "NationName": "anguilla"
+  },
+  {
+    "NationID": 359,
+    "NationName": "antigua-and-barbuda"
+  },
+  {
+    "NationID": 1649,
+    "NationName": "argentina"
+  },
+  {
+    "NationID": 754,
+    "NationName": "armenia"
+  },
+  {
+    "NationID": 360,
+    "NationName": "aruba"
+  },
+  {
+    "NationID": 1435,
+    "NationName": "australia"
+  },
+  {
+    "NationID": 755,
+    "NationName": "austria"
+  },
+  {
+    "NationID": 756,
+    "NationName": "azerbaijan"
+  },
+  {
+    "NationID": 107,
+    "NationName": "bahrain"
+  },
+  {
+    "NationID": 108,
+    "NationName": "bangladesh"
+  },
+  {
+    "NationID": 361,
+    "NationName": "barbados"
+  },
+  {
+    "NationID": 758,
+    "NationName": "belarus"
+  },
+  {
+    "NationID": 757,
+    "NationName": "belgium"
+  },
+  {
+    "NationID": 362,
+    "NationName": "belize"
+  },
+  {
+    "NationID": 7,
+    "NationName": "benin"
+  },
+  {
+    "NationID": 363,
+    "NationName": "bermuda"
+  },
+  {
+    "NationID": 131012,
+    "NationName": "bhutan"
+  },
+  {
+    "NationID": 1650,
+    "NationName": "bolivia"
+  },
+  {
+    "NationID": 214395,
+    "NationName": "bonaire"
+  },
+  {
+    "NationID": 788995,
+    "NationName": "borneo-malay"
+  },
+  {
+    "NationID": 759,
+    "NationName": "bosnia-and-herzegovina"
+  },
+  {
+    "NationID": 8,
+    "NationName": "botswana"
+  },
+  {
+    "NationID": 1651,
+    "NationName": "brazil"
+  },
+  {
+    "NationID": 129517,
+    "NationName": "british-virgin-islands"
+  },
+  {
+    "NationID": 109,
+    "NationName": "brunei-darussalam"
+  },
+  {
+    "NationID": 760,
+    "NationName": "bulgaria"
+  },
+  {
+    "NationID": 9,
+    "NationName": "burkina-faso"
+  },
+  {
+    "NationID": 5630219,
+    "NationName": "burma"
+  },
+  {
+    "NationID": 10,
+    "NationName": "burundi"
+  },
+  {
+    "NationID": 118,
+    "NationName": "cambodia"
+  },
+  {
+    "NationID": 11,
+    "NationName": "cameroon"
+  },
+  {
+    "NationID": 364,
+    "NationName": "canada"
+  },
+  {
+    "NationID": 12,
+    "NationName": "cape-verde-islands"
+  },
+  {
+    "NationID": 365,
+    "NationName": "cayman-islands"
+  },
+  {
+    "NationID": 13,
+    "NationName": "central-african-republic"
+  },
+  {
+    "NationID": 14,
+    "NationName": "chad"
+  },
+  {
+    "NationID": 1652,
+    "NationName": "chile"
+  },
+  {
+    "NationID": 110,
+    "NationName": "china-pr"
+  },
+  {
+    "NationID": 138,
+    "NationName": "chinese-taipei-china-pr"
+  },
+  {
+    "NationID": 1653,
+    "NationName": "colombia"
+  },
+  {
+    "NationID": 574,
+    "NationName": "commonwealth-of-soviet-states"
+  },
+  {
+    "NationID": 919586,
+    "NationName": "comoros"
+  },
+  {
+    "NationID": 49,
+    "NationName": "congo"
+  },
+  {
+    "NationID": 1436,
+    "NationName": "cook-islands"
+  },
+  {
+    "NationID": 366,
+    "NationName": "costa-rica"
+  },
+  {
+    "NationID": 215446,
+    "NationName": "crimea"
+  },
+  {
+    "NationID": 761,
+    "NationName": "croatia"
+  },
+  {
+    "NationID": 367,
+    "NationName": "cuba"
+  },
+  {
+    "NationID": 380,
+    "NationName": "curacao"
+  },
+  {
+    "NationID": 762,
+    "NationName": "cyprus"
+  },
+  {
+    "NationID": 763,
+    "NationName": "czechia"
+  },
+  {
+    "NationID": 575,
+    "NationName": "czechoslovakia"
+  },
+  {
+    "NationID": 53,
+    "NationName": "democratic-republic-of-congo"
+  },
+  {
+    "NationID": 764,
+    "NationName": "denmark"
+  },
+  {
+    "NationID": 15,
+    "NationName": "djibouti"
+  },
+  {
+    "NationID": 368,
+    "NationName": "dominica"
+  },
+  {
+    "NationID": 142527,
+    "NationName": "dominican-republic"
+  },
+  {
+    "NationID": 577,
+    "NationName": "east-germany"
+  },
+  {
+    "NationID": 5626837,
+    "NationName": "east-timor"
+  },
+  {
+    "NationID": 1654,
+    "NationName": "ecuador"
+  },
+  {
+    "NationID": 16,
+    "NationName": "egypt"
+  },
+  {
+    "NationID": 370,
+    "NationName": "el-salvador"
+  },
+  {
+    "NationID": 765,
+    "NationName": "england"
+  },
+  {
+    "NationID": 17,
+    "NationName": "equatorial-guinea"
+  },
+  {
+    "NationID": 129511,
+    "NationName": "eritrea"
+  },
+  {
+    "NationID": 766,
+    "NationName": "estonia"
+  },
+  {
+    "NationID": 47,
+    "NationName": "eswatini"
+  },
+  {
+    "NationID": 18,
+    "NationName": "ethiopia"
+  },
+  {
+    "NationID": 767,
+    "NationName": "faroe-islands"
+  },
+  {
+    "NationID": 1437,
+    "NationName": "fiji"
+  },
+  {
+    "NationID": 768,
+    "NationName": "finland"
+  },
+  {
+    "NationID": 769,
+    "NationName": "france"
+  },
+  {
+    "NationID": 917496,
+    "NationName": "french-guiana"
+  },
+  {
+    "NationID": 19,
+    "NationName": "gabon"
+  },
+  {
+    "NationID": 770,
+    "NationName": "georgia"
+  },
+  {
+    "NationID": 771,
+    "NationName": "germany"
+  },
+  {
+    "NationID": 21,
+    "NationName": "ghana"
+  },
+  {
+    "NationID": 214394,
+    "NationName": "gibraltar"
+  },
+  {
+    "NationID": 145174,
+    "NationName": "great-britain"
+  },
+  {
+    "NationID": 772,
+    "NationName": "greece"
+  },
+  {
+    "NationID": 371,
+    "NationName": "grenada"
+  },
+  {
+    "NationID": 917498,
+    "NationName": "guadeloupe"
+  },
+  {
+    "NationID": 129508,
+    "NationName": "guam"
+  },
+  {
+    "NationID": 373,
+    "NationName": "guatemala"
+  },
+  {
+    "NationID": 22,
+    "NationName": "guinea"
+  },
+  {
+    "NationID": 23,
+    "NationName": "guinea-bissau"
+  },
+  {
+    "NationID": 374,
+    "NationName": "guyana"
+  },
+  {
+    "NationID": 375,
+    "NationName": "haiti"
+  },
+  {
+    "NationID": 376,
+    "NationName": "honduras"
+  },
+  {
+    "NationID": 111,
+    "NationName": "hong-kong-china-pr"
+  },
+  {
+    "NationID": 773,
+    "NationName": "hungary"
+  },
+  {
+    "NationID": 774,
+    "NationName": "iceland"
+  },
+  {
+    "NationID": 112,
+    "NationName": "india"
+  },
+  {
+    "NationID": 113,
+    "NationName": "indonesia"
+  },
+  {
+    "NationID": 114,
+    "NationName": "iran"
+  },
+  {
+    "NationID": 115,
+    "NationName": "iraq"
+  },
+  {
+    "NationID": 52024163,
+    "NationName": "ireland-pre-1922"
+  },
+  {
+    "NationID": 775,
+    "NationName": "israel"
+  },
+  {
+    "NationID": 776,
+    "NationName": "italy"
+  },
+  {
+    "NationID": 24,
+    "NationName": "ivory-coast"
+  },
+  {
+    "NationID": 377,
+    "NationName": "jamaica"
+  },
+  {
+    "NationID": 116,
+    "NationName": "japan"
+  },
+  {
+    "NationID": 117,
+    "NationName": "jordan"
+  },
+  {
+    "NationID": 119,
+    "NationName": "kazakhstan"
+  },
+  {
+    "NationID": 25,
+    "NationName": "kenya"
+  },
+  {
+    "NationID": 209002,
+    "NationName": "kiribati"
+  },
+  {
+    "NationID": 217945,
+    "NationName": "kosovo"
+  },
+  {
+    "NationID": 120,
+    "NationName": "kuwait"
+  },
+  {
+    "NationID": 121,
+    "NationName": "kyrgyzstan"
+  },
+  {
+    "NationID": 122,
+    "NationName": "laos"
+  },
+  {
+    "NationID": 777,
+    "NationName": "latvia"
+  },
+  {
+    "NationID": 123,
+    "NationName": "lebanon"
+  },
+  {
+    "NationID": 26,
+    "NationName": "lesotho"
+  },
+  {
+    "NationID": 27,
+    "NationName": "liberia"
+  },
+  {
+    "NationID": 28,
+    "NationName": "libya"
+  },
+  {
+    "NationID": 778,
+    "NationName": "liechtenstein"
+  },
+  {
+    "NationID": 779,
+    "NationName": "lithuania"
+  },
+  {
+    "NationID": 780,
+    "NationName": "luxembourg"
+  },
+  {
+    "NationID": 124,
+    "NationName": "macau-china-pr"
+  },
+  {
+    "NationID": 29,
+    "NationName": "madagascar"
+  },
+  {
+    "NationID": 30,
+    "NationName": "malawi"
+  },
+  {
+    "NationID": 125,
+    "NationName": "malaysia"
+  },
+  {
+    "NationID": 126,
+    "NationName": "maldives"
+  },
+  {
+    "NationID": 31,
+    "NationName": "mali"
+  },
+  {
+    "NationID": 782,
+    "NationName": "malta"
+  },
+  {
+    "NationID": 917502,
+    "NationName": "martinique"
+  },
+  {
+    "NationID": 32,
+    "NationName": "mauritania"
+  },
+  {
+    "NationID": 33,
+    "NationName": "mauritius"
+  },
+  {
+    "NationID": 918740,
+    "NationName": "mayotte"
+  },
+  {
+    "NationID": 379,
+    "NationName": "mexico"
+  },
+  {
+    "NationID": 0,
+    "NationName": "micronesia"
+  },
+  {
+    "NationID": 15064643,
+    "NationName": "micronesia"
+  },
+  {
+    "NationID": 783,
+    "NationName": "moldova"
+  },
+  {
+    "NationID": 8162661,
+    "NationName": "monaco"
+  },
+  {
+    "NationID": 129505,
+    "NationName": "mongolia"
+  },
+  {
+    "NationID": 62002127,
+    "NationName": "montenegro"
+  },
+  {
+    "NationID": 129520,
+    "NationName": "montserrat"
+  },
+  {
+    "NationID": 34,
+    "NationName": "morocco"
+  },
+  {
+    "NationID": 35,
+    "NationName": "mozambique"
+  },
+  {
+    "NationID": 127,
+    "NationName": "myanmar"
+  },
+  {
+    "NationID": 36,
+    "NationName": "namibia"
+  },
+  {
+    "NationID": 128,
+    "NationName": "nepal"
+  },
+  {
+    "NationID": 784,
+    "NationName": "netherlands"
+  },
+  {
+    "NationID": 82082540,
+    "NationName": "netherlands-antilles"
+  },
+  {
+    "NationID": 129532,
+    "NationName": "new-caledonia"
+  },
+  {
+    "NationID": 1438,
+    "NationName": "new-zealand"
+  },
+  {
+    "NationID": 381,
+    "NationName": "nicaragua"
+  },
+  {
+    "NationID": 37,
+    "NationName": "niger"
+  },
+  {
+    "NationID": 38,
+    "NationName": "nigeria"
+  },
+  {
+    "NationID": 129,
+    "NationName": "north-korea"
+  },
+  {
+    "NationID": 781,
+    "NationName": "north-macedonia"
+  },
+  {
+    "NationID": 785,
+    "NationName": "northern-ireland"
+  },
+  {
+    "NationID": 23008660,
+    "NationName": "northern-mariana-islands"
+  },
+  {
+    "NationID": 786,
+    "NationName": "norway"
+  },
+  {
+    "NationID": 130,
+    "NationName": "oman"
+  },
+  {
+    "NationID": 131,
+    "NationName": "pakistan"
+  },
+  {
+    "NationID": 1662,
+    "NationName": "palestine"
+  },
+  {
+    "NationID": 382,
+    "NationName": "panama"
+  },
+  {
+    "NationID": 1439,
+    "NationName": "papua-new-guinea"
+  },
+  {
+    "NationID": 1655,
+    "NationName": "paraguay"
+  },
+  {
+    "NationID": 114502,
+    "NationName": "pays-basque"
+  },
+  {
+    "NationID": 1656,
+    "NationName": "peru"
+  },
+  {
+    "NationID": 141,
+    "NationName": "philippines"
+  },
+  {
+    "NationID": 787,
+    "NationName": "poland"
+  },
+  {
+    "NationID": 788,
+    "NationName": "portugal"
+  },
+  {
+    "NationID": 383,
+    "NationName": "puerto-rico"
+  },
+  {
+    "NationID": 132,
+    "NationName": "qatar"
+  },
+  {
+    "NationID": 789,
+    "NationName": "republic-of-ireland"
+  },
+  {
+    "NationID": 917510,
+    "NationName": "reunion"
+  },
+  {
+    "NationID": 790,
+    "NationName": "romania"
+  },
+  {
+    "NationID": 791,
+    "NationName": "russia"
+  },
+  {
+    "NationID": 39,
+    "NationName": "rwanda"
+  },
+  {
+    "NationID": 82082526,
+    "NationName": "saint-barthelemy"
+  },
+  {
+    "NationID": 385,
+    "NationName": "saint-kitts-and-nevis"
+  },
+  {
+    "NationID": 384,
+    "NationName": "saint-lucia"
+  },
+  {
+    "NationID": 917508,
+    "NationName": "saint-martin"
+  },
+  {
+    "NationID": 918748,
+    "NationName": "saint-pierre-and-miquelon"
+  },
+  {
+    "NationID": 386,
+    "NationName": "saint-vincent-and-the-grenadines"
+  },
+  {
+    "NationID": 917509,
+    "NationName": "saint-martin"
+  },
+  {
+    "NationID": 1444,
+    "NationName": "samoa"
+  },
+  {
+    "NationID": 792,
+    "NationName": "san-marino"
+  },
+  {
+    "NationID": 40,
+    "NationName": "sao-tome-and-principe"
+  },
+  {
+    "NationID": 133,
+    "NationName": "saudi-arabia"
+  },
+  {
+    "NationID": 793,
+    "NationName": "scotland"
+  },
+  {
+    "NationID": 788980,
+    "NationName": "sea-chinese"
+  },
+  {
+    "NationID": 41,
+    "NationName": "senegal"
+  },
+  {
+    "NationID": 802,
+    "NationName": "serbia"
+  },
+  {
+    "NationID": 42,
+    "NationName": "seychelles"
+  },
+  {
+    "NationID": 43,
+    "NationName": "sierra-leone"
+  },
+  {
+    "NationID": 134,
+    "NationName": "singapore"
+  },
+  {
+    "NationID": 788987,
+    "NationName": "singh-indian"
+  },
+  {
+    "NationID": 917506,
+    "NationName": "sint-maarten"
+  },
+  {
+    "NationID": 794,
+    "NationName": "slovakia"
+  },
+  {
+    "NationID": 795,
+    "NationName": "slovenia"
+  },
+  {
+    "NationID": 1440,
+    "NationName": "solomon-islands"
+  },
+  {
+    "NationID": 44,
+    "NationName": "somalia"
+  },
+  {
+    "NationID": 45,
+    "NationName": "south-africa"
+  },
+  {
+    "NationID": 135,
+    "NationName": "south-korea"
+  },
+  {
+    "NationID": 13113220,
+    "NationName": "south-sudan"
+  },
+  {
+    "NationID": 5626565,
+    "NationName": "south-vietnam"
+  },
+  {
+    "NationID": 208996,
+    "NationName": "south-yemen"
+  },
+  {
+    "NationID": 583,
+    "NationName": "soviet-union"
+  },
+  {
+    "NationID": 796,
+    "NationName": "spain"
+  },
+  {
+    "NationID": 136,
+    "NationName": "sri-lanka"
+  },
+  {
+    "NationID": 46,
+    "NationName": "sudan"
+  },
+  {
+    "NationID": 387,
+    "NationName": "suriname"
+  },
+  {
+    "NationID": 797,
+    "NationName": "sweden"
+  },
+  {
+    "NationID": 798,
+    "NationName": "switzerland"
+  },
+  {
+    "NationID": 137,
+    "NationName": "syria"
+  },
+  {
+    "NationID": 1441,
+    "NationName": "tahiti"
+  },
+  {
+    "NationID": 139,
+    "NationName": "tajikistan"
+  },
+  {
+    "NationID": 100349,
+    "NationName": "tamil-indian"
+  },
+  {
+    "NationID": 788990,
+    "NationName": "tamil-indian"
+  },
+  {
+    "NationID": 48,
+    "NationName": "tanzania"
+  },
+  {
+    "NationID": 140,
+    "NationName": "thailand"
+  },
+  {
+    "NationID": 388,
+    "NationName": "the-bahamas"
+  },
+  {
+    "NationID": 20,
+    "NationName": "the-gambia"
+  },
+  {
+    "NationID": 50,
+    "NationName": "togo"
+  },
+  {
+    "NationID": 1442,
+    "NationName": "tonga"
+  },
+  {
+    "NationID": 389,
+    "NationName": "trinidad-and-tobago"
+  },
+  {
+    "NationID": 51,
+    "NationName": "tunisia"
+  },
+  {
+    "NationID": 799,
+    "NationName": "turkiye"
+  },
+  {
+    "NationID": 142,
+    "NationName": "turkmenistan"
+  },
+  {
+    "NationID": 129526,
+    "NationName": "turks-and-caicos-islands"
+  },
+  {
+    "NationID": 23088616,
+    "NationName": "tuvalu"
+  },
+  {
+    "NationID": 52,
+    "NationName": "uganda"
+  },
+  {
+    "NationID": 800,
+    "NationName": "ukraine"
+  },
+  {
+    "NationID": 143,
+    "NationName": "united-arab-emirates"
+  },
+  {
+    "NationID": 29118470,
+    "NationName": "united-arab-republic"
+  },
+  {
+    "NationID": 219003,
+    "NationName": "united-kingdom"
+  },
+  {
+    "NationID": 390,
+    "NationName": "united-states"
+  },
+  {
+    "NationID": 13116454,
+    "NationName": "upper-volta"
+  },
+  {
+    "NationID": 1657,
+    "NationName": "uruguay"
+  },
+  {
+    "NationID": 129523,
+    "NationName": "us-virgin-islands"
+  },
+  {
+    "NationID": 144,
+    "NationName": "uzbekistan"
+  },
+  {
+    "NationID": 1443,
+    "NationName": "vanuatu"
+  },
+  {
+    "NationID": 1658,
+    "NationName": "venezuela"
+  },
+  {
+    "NationID": 145,
+    "NationName": "vietnam"
+  },
+  {
+    "NationID": 801,
+    "NationName": "wales"
+  },
+  {
+    "NationID": 918745,
+    "NationName": "wallis-and-futuna-islands"
+  },
+  {
+    "NationID": 584,
+    "NationName": "west-germany"
+  },
+  {
+    "NationID": 788999,
+    "NationName": "west-malay"
+  },
+  {
+    "NationID": 146,
+    "NationName": "yemen"
+  },
+  {
+    "NationID": 62003815,
+    "NationName": "yugoslavia"
+  },
+  {
+    "NationID": 103277,
+    "NationName": "zaire"
+  },
+  {
+    "NationID": 54,
+    "NationName": "zambia"
+  },
+  {
+    "NationID": 13100103,
+    "NationName": "zanzibar"
+  },
+  {
+    "NationID": 55,
+    "NationName": "zimbabwe"
+  }
+]
